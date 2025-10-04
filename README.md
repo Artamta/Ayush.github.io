@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portofolio.heic" alt="Ayush Raj Portfolio Banner" width="800">
+  <img src="assets/portfolio.heic" alt="Ayush Raj Portfolio Banner" width="800">
 </p>
 🌐 Ayush Raj — Portfolio Website
 
