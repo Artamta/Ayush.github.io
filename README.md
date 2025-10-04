@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/portofolio.heic" alt="Ayush Raj Portfolio Banner" width="800">
+</p>
 🌐 Ayush Raj — Portfolio Website
 
 Welcome to my personal website 👉 artamta.github.io
