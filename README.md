@@ -1,58 +1,82 @@
-🌐 Ayush Raj — Personal Website
+🌐 Ayush Raj — Portfolio Website
 
-Welcome to my GitHub Pages site
-!
-This website is a hub for my research, projects, and journey as a data-driven problem solver in climate science and healthcare.
+
+
+
+
+
+Welcome to the source of my personal website 👉 artamta.github.io
+.
+This site is my digital home where I share research, projects, and ideas at the intersection of AI, climate science, and healthcare.
 
 👨‍🎓 About Me
 
-I am Ayush Raj, a 4th-year BS–MS student at IISER Pune, passionate about designing scalable, interpretable, and impactful AI solutions.
-My work lies at the intersection of:
+Hi, I’m Ayush Raj, a BS–MS student at IISER Pune.
+I am passionate about data-driven science, with a focus on:
 
-🌍 Climate Science → Spatio-temporal forecasting, extreme events, and weather modeling
+🌍 Climate Modeling & Forecasting (transformers, extreme events, HPC workflows)
 
-🧬 Biomedical Imaging → Quantitative MRI, cancer detection, image processing
+🧬 Biomedical Imaging (quantitative MRI, cancer detection, signal modeling)
 
-⚡ High-Performance Computing (HPC) → Distributed ML pipelines, Slurm, large-scale optimization
+🤖 Machine Learning & AI (deep learning, graph neural networks, generative AI)
 
-🔬 Research Highlights
+⚡ High-Performance Computing (Slurm, distributed training, scalable pipelines)
 
-Fuxi-Transformer for Climate Forecasting
-Building a transformer-based model for 15-day global weather forecasts using 70+ atmospheric and oceanic variables.
-🔗 Repository
+My goal: to build interpretable AI systems that solve real-world problems in sustainability and healthcare.
 
-Quantitative MRI (IIT Delhi Internship)
-Developed voxel-wise IVIM and hybrid IVIM-DKI pipelines, improving parameter stability under low SNR by 30%.
-🔗 Repository
+🔬 Research Experience
 
-Heatwave Analysis over India
-Identified seasonal heatwave clusters from 40 years of ERA5 data using clustering and graph-based workflows.
-🔗 Repository
+🌎 Fuxi-Transformer for Climate Forecasting
+Transformer-based framework for 15-day global weather prediction using 70+ climate variables.
+🔗 View Repository
+
+🧲 Quantitative MRI (IIT Delhi Internship)
+Designed IVIM and IVIM-DKI models, improving stability under low SNR by 30%.
+🔗 View Repository
+
+🔥 Heatwave Clustering Analysis
+Explored 40 years of ERA5 data with clustering & graph methods to uncover seasonal heatwave patterns.
+🔗 View Repository
 
 💻 Selected Projects
 
-Facial Emotion Recognition (Deep Learning, VGG19) → Repo
+Facial Emotion Recognition (Deep Learning) → Repo
 
-Breast Cancer Detection (Logistic Regression, Flask Web App) → Repo
+Breast Cancer Detection (Logistic Regression + Flask) → Repo
 
-🛠️ Skills
+🛠️ Tech Stack
 
-Programming: Python, C++, SQL, Bash
+Languages: Python, C++, SQL, Bash
 
-ML & AI: PyTorch, Transformers, HuggingFace, Graph Neural Networks
+ML & AI: PyTorch, HuggingFace, Transformers, Graph Neural Networks
 
 Data & Imaging: Xarray, GeoPandas, NiBabel, SimpleITK
 
-HPC: Slurm, Distributed Training, SSH workflows
+HPC Tools: Slurm, SSH, Distributed Training
 
-Other Tools: Git, Linux, Flask, Heroku
+Others: Git, Linux, Flask, Heroku
 
-📫 Connect with Me
+🚀 Website
+
+This portfolio is built with GitHub Pages
+.
+
+📂 Structure
+
+index.html → Main landing page
+
+projects/ → Highlighted projects & research
+
+assets/ → Images, icons, and style files
+
+You’re welcome to fork and adapt this repo for your own portfolio 🚀.
+
+📫 Contact
 
 📧 Email: raj.ayush@students.iiserpune.ac.in
 
-🔗 GitHub: Artamta
+🐙 GitHub: Artamta
 
 💼 LinkedIn: Ayush Raj
 
-✨ This site is built with GitHub Pages and serves as a portfolio to showcase my academic journey, projects, and open-source contributions.
+✨ Thanks for visiting! If you like my work, consider starring ⭐ the repo or connecting with me.
